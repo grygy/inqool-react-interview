@@ -23,6 +23,7 @@ To make things easier, we have committed a `github-api.ts` file with the REST AP
 - Use ES6 syntax (such as arrow functions, destructuring, async/await, etc.)
 - Show some spinner (or similar) when information is fetching
 - Use some UI component library such as [MUI](https://mui.com/) or [Charta UI](https://chakra-ui.com/)
+- Deploy the project somewhere (e.g., GitHub pages)
  
 ## Bootstrapping the project
 
@@ -43,5 +44,4 @@ Download `github-api.ts`, create your own repository, and add the solution there
 - Try to keep clean git history with meaningful messages
 - Add React Context if relevant (e.g., dark mode)
 - Show common tools used for your daily development environment (linters, code formatter, and so on)
-- Deploy the project somewhere (e.g., GitHub pages)
 - Use types with TypeScript
