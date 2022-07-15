@@ -23,11 +23,11 @@ To make things easier, we have committed a `github-api.ts` file with the REST AP
 - Use ES6 syntax (such as arrow functions, destructuring, async/await, etc.)
 - Show some spinner (or similar) when information is fetching
 - Use some UI component library such as [MUI](https://mui.com/) or [Chakta UI](https://chakra-ui.com/)
-- Deploy the project somewhere (e.g., GitHub pages)
+- Deploy the project somewhere (e.g., [GitHub pages](https://pages.github.com/) or [Netlify](https://www.netlify.com/))
  
 ## Bootstrapping the project
 
-Up to you, for React we recommend [create-react-app](https://create-react-app.dev/docs/getting-started/) with [TypeScript template](https://create-react-app.dev/docs/adding-typescript).
+Up to you, for React we recommend [create-react-app](https://create-react-app.dev/docs/getting-started/) with [TypeScript template](https://create-react-app.dev/docs/adding-typescript) if you opt-in for TypeScript).
 
 ```bash
 yarn create react-app github-finder --template typescript
@@ -37,7 +37,7 @@ yarn create react-app github-finder --template typescript
 
 **DO NOT FORK this repository** 
 
-Download `github-api.ts`, create your own repository, and add the solution there. It should be clear how to build and run the project locally.
+Download `github-api.ts`, create your own repository, and add the solution there.
 
 ## Bonus (don't need to be in the below specific order)
 - Deal with errors coming from the backend
