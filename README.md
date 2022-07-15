@@ -22,7 +22,7 @@ To make things easier, we have committed a `github-api.ts` file with the REST AP
 - The app should be responsive
 - Use ES6 syntax (such as arrow functions, destructuring, async/await, etc.)
 - Show some spinner (or similar) when information is fetching
-- Use some UI component library such as [MUI](https://mui.com/) or [Charta UI](https://chakra-ui.com/)
+- Use some UI component library such as [MUI](https://mui.com/) or [Chakta UI](https://chakra-ui.com/)
 - Deploy the project somewhere (e.g., GitHub pages)
  
 ## Bootstrapping the project
